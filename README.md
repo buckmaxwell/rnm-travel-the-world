@@ -35,6 +35,8 @@ Here is a breakdown of possible cars.  They are categorized by their biggest sac
 After the evaluation it seems the Toyata Tacoma (1995 – 2004) or the Toyota 4Runner (1996-2002) is the vehicle I need. 
 
 ### Tacoma
+
+![2001 Taco](http://www.cstatic-images.com/stock/900x600/225414.jpg)
 It is true part time 4WD. reliable, and rugged as hell. This set of years marks the first generation.  
  - 4WD models can be seen by the 6 Stud wheel lug pattern, rather than the 5 stud pattern in the 2WD models. 
  - Three engine sizes are available
@@ -54,6 +56,9 @@ It is true part time 4WD. reliable, and rugged as hell. This set of years marks 
  - What about after market air lockers? $2500 for a rear ARB locker with onboard air
 
 ### 4Runner
+
+![1999 4Runner](https://media.ed.edmunds-media.com/toyota/4runner/1999/oem/1999_toyota_4runner_4dr-suv_limited_fq_oem_1_500.jpg)
+
 Fill stuff in.
 
 
