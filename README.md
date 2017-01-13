@@ -43,13 +43,7 @@ This page is the index page, Get further in depth by following the links to othe
 [Expedition Portal](http://expeditionportal.com/)
 
 
-lot
 
-
-IAA
-400 Cherokee Drive Dayton Ohio 45417
-Stock no: 186 829 91
-Phine : 937 -268-6666
 
 
 
