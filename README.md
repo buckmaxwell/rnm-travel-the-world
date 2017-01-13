@@ -9,28 +9,33 @@ I want to travel from Cleveland, OH USA to the tip of South America in a car wit
 
 Here is a breakdown of possible cars.  They are categorized by their biggest sacrifice.
 
-#### Expensive
-Toyota 4Runner (1995 – 2009)
-
 #### Breaks down often
-Jeep Cherokee XJ (1987 – 2001)
-Ford Ranger XLT (1998 – 2011)
-Isuzu Trooper (1991 – 2002)
+ + Jeep Cherokee XJ (1987 – 2001)
+ + Ford Ranger XLT (1998 – 2011)
+ + Isuzu Trooper (1991 – 2002)
 
 #### Limited off road
-Subaru Outback (1994 – Present) -- lots of availability. 3-4k for < 200,000 miles
-Toyota Tacoma (1995 – 2004) -- lots of availabilty.  ~5k for < 200,000 miles [like a Hilux, but in USA]
+ + Subaru Outback (1994 – Present) -- lots of availability. 3-4k for < 200,000 miles
+ + Toyota Tacoma (1995 – 2004) -- lots of availabilty.  ~6k for < 200,000 miles* 
+ + Toyota 4Runner (1995 – 2009) -- good availability, cheaper than Taco.  ~4k for < 200,000 miles*
 
-### Terrible Gas Milage
-Toyota Land Cruiser (1980 – 1997) -- limited availability and high price
-Chevy Silverado (1999-2006) -- John uses this Silverado for off-roading.  Expensive when under 200,000 miles.
+*The Tacoma and 4Runner can be made into true offroad vehicles by adding a locking rear differential for ~2.5k
 
-### ???
-Mercedes-Benz Sprinter
-Jeep Wranger -- poor handling on pavement, pricey, breaks down often
+#### Terrible Gas Milage
+ + Toyota Land Cruiser (1980 – 1997) -- limited availability and high price
+ + Chevy Silverado (1999-2006) -- John uses this Silverado for off-roading.  Expensive when under 200,000 miles.
+
+#### ???
+ + Mercedes-Benz Sprinter
+ + Jeep Wranger -- poor handling on pavement, pricey, breaks down often
+
+## A Tacoma or a 4Runner
 
 
-After the evaluation it seems the Toyata Tacoma (1995 – 2004) is the vehicle I need. It is true part time 4WD. reliable, and rugged as hell. This set of years marks the first generation.  
+After the evaluation it seems the Toyata Tacoma (1995 – 2004) or the Toyota 4Runner (1996-2002) is the vehicle I need. 
+
+### Tacoma
+It is true part time 4WD. reliable, and rugged as hell. This set of years marks the first generation.  
  - 4WD models can be seen by the 6 Stud wheel lug pattern, rather than the 5 stud pattern in the 2WD models. 
  - Three engine sizes are available
  	+ 2.4 L four-cylinder rated at 142 hp (106 kW) and 160 lb·ft (217 N·m) of torque
@@ -48,12 +53,17 @@ After the evaluation it seems the Toyata Tacoma (1995 – 2004) is the vehicle I
  - Toyota issued a recall on the lower ball joint due to the possibility of premature wear from improper finishing in production. The ball joints will be replaced under the recall. This recall applies to 2001-2004 models only. Please contact you local Toyota dealer to see if your vehicle is included.
  - What about after market air lockers? $2500 for a rear ARB locker with onboard air
 
-### About 4WD for Tacomas
+### 4Runner
+Fill stuff in.
+
+
+
+### About 4WD/AWD/RWD
 
 4 wheel drive is 2 wheel drive in reality.
-2 wheel drive is 1 wheel drive in reality.
+2 wheel drive (rwd) is 1 wheel drive in reality.
 4 wheel drive with a locker front or rear is actually 3 wheel drive.
-or locker front and rear is actually the true definaition of 4 wheel drive.
+4 wheel drive with a locker in the front and rear is the true definaition of 4 wheel drive.
 
 
 
