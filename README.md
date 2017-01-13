@@ -29,8 +29,7 @@ Here is a breakdown of possible cars.  They are categorized by their biggest sac
  + Mercedes-Benz Sprinter
  + Jeep Wranger -- poor handling on pavement, pricey, breaks down often
 
-## A Tacoma or a 4Runner
-
+## A Tacoma or a 4Runner?
 
 After the evaluation it seems the Toyata Tacoma (1995 – 2004) or the Toyota 4Runner (1996-2002) is the vehicle I need. 
 
@@ -148,6 +147,8 @@ Fill stuff in.
 [Hitchhiker's Blog Texas -> South America](https://hitchtheworld.com/)
 
 [Going Alone, Single Vehicle Safety](https://www.tacomaworld.com/threads/going-alone-single-vehicle-wheeling-safety.454083/)
+
+[Expedition Portal](http://expeditionportal.com/)
 
 
 lot
