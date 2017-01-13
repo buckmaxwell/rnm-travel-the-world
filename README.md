@@ -12,10 +12,18 @@ This page is the index page, Get further in depth by following the links to othe
 ## The Costs
 
  + Vehicle (plus upgrades and supplies -- winch, shovel, tire pump, rear axel locker?)
+  + Gas
+  + Repairs
  + Darien Gap fee (the way there) $1000
  + Darien Gap fee (the way home) (or do we sell the car there and fly home?) $1000
  + Tent
-
+ + Medical kit
+ + Vaccinations
+ + Map(s)
+ + Lodging (campgrounds, occassional hotels?)
+ + Emergency get home money
+ + Water filters
+ + Portable toilet seat
 
 ## Useful links
 
