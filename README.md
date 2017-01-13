@@ -65,10 +65,10 @@ Fill stuff in.
 
 ### About 4WD/AWD/RWD
 
-4 wheel drive is 2 wheel drive in reality.
-2 wheel drive (rwd) is 1 wheel drive in reality.
-4 wheel drive with a locker front or rear is actually 3 wheel drive.
-4 wheel drive with a locker in the front and rear is the true definaition of 4 wheel drive.
+ = 4 wheel drive is 2 wheel drive in reality.
+ = 2 wheel drive (rwd) is 1 wheel drive in reality.
+ = 4 wheel drive with a locker front or rear is actually 3 wheel drive.
+ = 4 wheel drive with a locker in the front and rear is the true definaition of 4 wheel drive.
 
 
 
