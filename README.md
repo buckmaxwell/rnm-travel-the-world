@@ -65,41 +65,41 @@ Fill stuff in.
 
 ### About 4WD/AWD/RWD
 
- = 4 wheel drive is 2 wheel drive in reality.
- = 2 wheel drive (rwd) is 1 wheel drive in reality.
- = 4 wheel drive with a locker front or rear is actually 3 wheel drive.
- = 4 wheel drive with a locker in the front and rear is the true definaition of 4 wheel drive.
+ - 4 wheel drive is 2 wheel drive in reality.
+ - 2 wheel drive (rwd) is 1 wheel drive in reality.
+ - 4 wheel drive with a locker front or rear is actually 3 wheel drive.
+ - 4 wheel drive with a locker in the front and rear is the true definaition of 4 wheel drive.
 
 
 
 
 ### Car ads
 
-[1999 2k](http://columbus.craigslist.org/cto/5955605319.html)  
-[2001 5k](http://columbus.craigslist.org/cto/5936667309.html) -- frame replaced by toyata
-[2001 extracab 6k](http://mansfield.craigslist.org/cto/5948284833.html)
-[2001 4Runner 3.5k](http://columbus.craigslist.org/cto/5956069277.html)
-[1999 4Runner 3k](http://columbus.craigslist.org/ctd/5954734686.html)
+ + [1999 2k](http://columbus.craigslist.org/cto/5955605319.html)  
+ + [2001 5k](http://columbus.craigslist.org/cto/5936667309.html) -- frame replaced by toyata
+ + [2001 extracab 6k](http://mansfield.craigslist.org/cto/5948284833.html)
+ + [2001 4Runner 3.5k](http://columbus.craigslist.org/cto/5956069277.html)
+ + [1999 4Runner 3k](http://columbus.craigslist.org/ctd/5954734686.html)
 
 
 
 ## Needed Items
 
-Shovel
-Winch!
-Camper top
-A GOOD tire pump
-tire repair kit
+ + Shovel
+ + Winch!
+ + Camper top
+ + A GOOD tire pump
+ + Tire repair kit
 
 
 
 
 ## The Costs
 
-Vehicle
-Darien Gap fee (the way there) $1000
-Darien Gap fee (the way home) (or do we sell the car there and fly home?) $1000
-Tent
+ + Vehicle (plus upgrades and supplies -- winch, shovel, tire pump, rear axel locker?)
+ + Darien Gap fee (the way there) $1000
+ + Darien Gap fee (the way home) (or do we sell the car there and fly home?) $1000
+ + Tent
 
 
 ## Useful links
