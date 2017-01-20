@@ -12,5 +12,12 @@ Spanish Movie Night|Max and Rebecca speak/text only Spanish to each other|Meetup
 * Butterfly (Netflix)
 * Pan's Laybrinth (Netflix)
 
-**Spanish Articles**
+**Kid TV Shows**
+* La Ratita Presumida
+* Dora la Exploradora
+* Pocoyó
+* Mundo Zamba
+* Los Simpson
+
+**Spanish Reading Resources**
 * [Spanish Reading Practice Resources](http://www.fluentin3months.com/spanish-reading-practice/)
