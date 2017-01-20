@@ -1,6 +1,13 @@
+can | i | do | this? |
+---|---|---|---|
+blah|blah|blah|
+
 Monday: Spanish Movie Night
+
 Tuesday: Max and Rebecca speak/text only Spanish to each other
+
 Wednesday: Meetup in Cbus @6:30
+
 Thursday - Sunday: Duolingo everyday, read at least 2 articles written in Spanish
 
 * Spanish Movies *
