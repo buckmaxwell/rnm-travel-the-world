@@ -1,6 +1,6 @@
 Mon | Tues | Wed | Thurs-Sun |
 ---|---|---|---|
-Spanish Movie Night|Max and Rebecca speak/text only Spanish to each other|Meetup in Cbus @6:30|Duolingo everyday, read at least 2 articles written in Spanish
+Spanish Movie Night|Max and Rebecca speak/text only Spanish to each other|Meetup in Cbus @6:30|Duolingo everyday, read at least 2 articles/stories/etc. written in Spanish
 
 
  **Spanish Movies**
