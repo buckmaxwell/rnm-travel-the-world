@@ -116,3 +116,18 @@ Well we bought it :D
 
 [Repair pal for Tacoma](http://repairpal.com/problems/toyota/tacoma/most+reported)
 
+
+# Insurance
+
+
+Fill this in...
+
+
+# Permits (International Driving Permit)
+
+It’s illegal to drive without a valid driver’s license and insurance in most countries, and many do not recognize U.S. driver’s licenses. Car rental companies usually offer insurance, but for the license you’ll need to obtain an International Driving Permit, either from AAA or the National Auto Club. It’s also smart to familiarize yourself with local driving laws wherever you plan to drive. Contact foreign embassies for official rules and regulations regarding driving.
+
+[Some advice if you are thinking of driving to South America](http://austintoargentina.travellerspoint.com/20/)
+
+
+

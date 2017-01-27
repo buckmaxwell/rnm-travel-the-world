@@ -47,8 +47,15 @@ Where should we eat, hike, camp?  Which of your friends do we need to talk to be
 
 This page is the index page, Get further in depth by following the links to other pages.
 
- - [Picking the Right Vehicle for the Job](car.md)
+ - [The Car, Insurance, and International Driving Permits](car.md)
  - [Spanish Bootcamp (We don't know any... Rebecca put together this schedule so we can learn)](spanish-bootcamp.md)
+ - [Medical Stuff](medical.md)
+ - [STEP (Smart Traveler Enrollment Program)](https://step.state.gov/step/)
+ - [Packing List](packing.md)
+ - [Alerts and Warnings](alerts_and_warnings.md)
+ - [Banking & Insurance](banking.md)
+ - [Phone & Communication](communication.md)
+ - [Visas/Passports and other country specific travel info](#)
 
 
 ## Useful links
@@ -63,6 +70,13 @@ This page is the index page, Get further in depth by following the links to othe
 
 [NYC to Argentina article](http://www.nbcnews.com/id/35876322/ns/travel-active_travel/t/-mile-drive-south-nyc-argentina/#.WHah67YrKYU)
 
+### International Travel Tips
+
+[International Travel Checklist](https://www.neamb.com/travel/international-travel-checklist.htm)
+
+## Driving the Pan American Highway
+
+[Drive me loco](http://www.drivemeloco.com/)
 
 ### Blogs
 
