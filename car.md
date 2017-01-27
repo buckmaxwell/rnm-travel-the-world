@@ -107,4 +107,9 @@ Fill stuff in.
 
 [My /r/ToyataTacoma Thread](https://www.reddit.com/r/ToyotaTacoma/comments/5nl9f3/buying_a_first_gen_tacoma_to_drive_through_south/)
 
+[Automatic vs Manual Transmission Costs and Durability](http://mechanics.stackexchange.com/questions/6276/durability-of-automatic-transmission-boxes-versus-durability-of-manual-transmiss)
+
+[Common Transmission Problems](http://www.transmissionrepaircostguide.com/10-common-transmission-problems/)
+
+[Repair pal for Tacoma](http://repairpal.com/problems/toyota/tacoma/most+reported)
 
