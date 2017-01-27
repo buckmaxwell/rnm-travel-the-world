@@ -1,6 +1,8 @@
 # The Car
 
-Here is a breakdown of possible cars.  They are categorized by their biggest sacrifice.
+We ended up going with a 2001 Toyota 4Runner with 194,000 miles on it.  It is 4WD, a 3.4L V6, has a center locking differential, and is super fun to drive.  We plan to put a winch on there and are still deciding whether to put a rear locker on it...
+
+Here was the breakdown of possible cars.  We categorized them by their biggest sacrifice.
 
 ### Breaks down often
  + Jeep Cherokee XJ (1987 – 2001)
@@ -19,7 +21,7 @@ Here is a breakdown of possible cars.  They are categorized by their biggest sac
  + Chevy Silverado (1999-2006) -- John uses this Silverado for off-roading.  Expensive when under 200,000 miles.
 
 ### ???
- + Mercedes-Benz Sprinter
+ + Mercedes-Benz Sprinter (lol)
  + Jeep Wranger -- poor handling on pavement, pricey, breaks down often
 
 ## A Tacoma or a 4Runner?
@@ -51,7 +53,7 @@ It is true part time 4WD. reliable, and rugged as hell. This set of years marks 
 
 ![1999 4Runner](https://media.ed.edmunds-media.com/toyota/4runner/1999/oem/1999_toyota_4runner_4dr-suv_limited_fq_oem_1_500.jpg)
 
-Fill stuff in.
+Well we bought it :D
 
 
 
@@ -63,7 +65,7 @@ Fill stuff in.
  - 4 wheel drive with a locker in the front and rear is the true definaition of 4 wheel drive.
 
 
-### Car ads
+### Car ads we followed up on...  (foolish becuase they won't be here long)
 
  + [1999 2k](http://columbus.craigslist.org/cto/5955605319.html)  
  + [2001 5k](http://columbus.craigslist.org/cto/5936667309.html) -- frame replaced by toyata
@@ -80,6 +82,7 @@ Fill stuff in.
  + Camper top
  + A GOOD tire pump
  + Tire repair kit
+ + Rear diff locker?
 
 
 
