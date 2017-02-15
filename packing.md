@@ -18,6 +18,8 @@
  + Tow Chain
  + First Aid Kit
  + Proof of Vehicle Insurance
+ + Car Jack
+ + Fix-a-Flat
 
 
 
