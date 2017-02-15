@@ -7,5 +7,9 @@ We plan to do a doctors visit this week to see if we need any vaccines, shots, e
 
  - [CDC Website travel secion](https://wwwnc.cdc.gov/travel/)
 
+## Getting sick in Central or South America
+
+- [Travel Health - Drive the Americas](http://www.drivetheamericas.com/node/637)
+
 
 
