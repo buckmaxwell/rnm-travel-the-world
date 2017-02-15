@@ -15,12 +15,15 @@
  + 2 Orange Safety Cones (road triangles) (police check for these at stops in some countries)
  + Fire Extinguisher -- must have valid check sticker (police check for these at stops in some countries)
  + Reflective tape on the vehicle bumpers/body (red in rear, white in front)
- + Tow Chain
+ + Tow Chain (to solicit help if you break down-- there will be no tow truck! Also is mandatory in Nicaragua)
  + First Aid Kit
  + Proof of Vehicle Insurance
  + Car Jack
  + Fix-a-Flat
-
+ + You may want to bring spare air, oil and gas filters for your car in case you cannot find any that fit your car on your trip. You should also have spare belts and extra fuses with you. ''edit dare2go'': If your car has any electronics (most models released after 1990 will have some) take the most vital sensors for your model!
+ + Tamper Proof License plates
+ + Tinted Windows (already have this!)
+ + White Sheet (really, just a white sheet, like one for wrapping bodies.  You need one in Argentina!)
 
 
 ## Tips
