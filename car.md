@@ -83,6 +83,8 @@ Well we bought it :D
  + A GOOD tire pump
  + Tire repair kit
  + Rear diff locker?
+ + Orange Safety Cone (police check for these at stops in some countries)
+ + Fire Extinguisher (police check for these at stops in some countries)
 
 
 
