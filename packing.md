@@ -3,16 +3,21 @@
 
 ## List
 
-- Car Items
+- Car Items 
+ + Directory of where each item is in the car!
+  - Just make a sheet and keep it in the glovebox so you can find these key items easily if you need to.
  + Shovel
  + Winch!
  + Camper top
  + A GOOD tire pump
  + Tire repair kit
  + Rear diff locker?
- + Orange Safety Cone (police check for these at stops in some countries)
- + Fire Extinguisher (police check for these at stops in some countries)
- + Reflective tape
+ + 2 Orange Safety Cones (road triangles) (police check for these at stops in some countries)
+ + Fire Extinguisher -- must have valid check sticker (police check for these at stops in some countries)
+ + Reflective tape on the vehicle bumpers/body (red in rear, white in front)
+ + Tow Chain
+ + First Aid Kit
+ + Proof of Vehicle Insurance
 
 
 
