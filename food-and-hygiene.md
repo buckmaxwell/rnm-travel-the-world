@@ -37,7 +37,7 @@ https://www.rei.com/learn/expert-advice/planning-menu.html
 * Blue bags for waste
 * Camp Trowel
 
-# Hygiene
+# Period Hygiene
 
 [Backpacking with your period](https://www.rei.com/learn/expert-advice/backpacking-with-your-period.html)
 
