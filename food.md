@@ -1,4 +1,4 @@
-Food ideas 
+# Food ideas 
 
 * Rice & beans! canned, instant, dry
 * Dried fruit
@@ -17,16 +17,17 @@ Food ideas
 
 https://www.rei.com/learn/expert-advice/planning-menu.html
 
-Tips
+# Tips
+
 * Check the cook time for foods such as pasta, potatoes, rice, quinoa, etc. and make sure to plan for enough fuel (some of these dishes take a deceptively long time to cook).
 * Rather than take a prolonged break for a midday meal (involving unpacking, preparation, cleanup and repacking), a quicker strategy is to graze on a series of modest energy-boosting snacks throughout the day.
   * Popular choices: Jerky, dried fruit, fig bars, energy bars and nuts.
   
-Water
+# Water
 
 [Water treatment for International Travel](https://www.rei.com/learn/expert-advice/water-treatment-international.html)
 
-Getting rid of that food...
+# Getting rid of that food...
 
 [Backcountry Bathroom Basics](https://www.rei.com/learn/expert-advice/hygiene-sanitation.html)
 * Toilet paper
