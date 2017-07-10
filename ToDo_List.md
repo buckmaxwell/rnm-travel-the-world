@@ -13,6 +13,7 @@ It is June 22 and also crunch time. This is a list of our to-dos before we leave
   * Clothing (fit for weather conditions)
   * Food
   * Gear
+  * Dash Cam
 * Packing lists 
 * Actual packing
 * Go to Wednesday Spanish meet-ups
